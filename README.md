@@ -21,7 +21,7 @@ Steps to Compile:
 - Right-click on the project, set the startup form (default is MainForm).
 - Press F5 to launch the application.
 
-- 
+
 How to Use the Application
 User Features:
 
